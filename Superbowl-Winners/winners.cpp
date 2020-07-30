@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "OHProjectTwo.h"
 using namespace std;
 
 const int totalyears = 43;
