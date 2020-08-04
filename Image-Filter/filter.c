@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "helpers.h"
+#include "filterType.h"
 
 int main(int argc, char *argv[])
 {
