@@ -1,4 +1,4 @@
-#include "helpers.h"
+#include "filterType.h"
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
