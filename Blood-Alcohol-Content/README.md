@@ -14,11 +14,11 @@ t = number of hours since the FIRST drink
 Here are the possible effects returned by the program based on the BAC estimate. 
 
               BAC Estimate	                              Possible Effects
-Less Than 0.03%	                                Normal behavior, no impairment
-0.03% or greater, but less than 0.06%	            Mild euphoria and impairment
-0.06% or greater, but less than 0.10%	          Euphoric, increased impairment
-0.10% or greater, but less than 0.20%	            Drunk, loss of motor control
-0.20% or greater, but less than 0.30%	             Confused, possible blackout
-0.30% or greater, but less than 0.40%	                  Possibly unconscious
+Less Than 0.03%	                                Normal behavior, no impairment | 
+0.03% or greater, but less than 0.06%	            Mild euphoria and impairment | 
+0.06% or greater, but less than 0.10%	          Euphoric, increased impairment | 
+0.10% or greater, but less than 0.20%	            Drunk, loss of motor control | 
+0.20% or greater, but less than 0.30%	             Confused, possible blackout | 
+0.30% or greater, but less than 0.40%	                  Possibly unconscious | 
 0.40% or greater	                                  Unconscious, risk of death
 
